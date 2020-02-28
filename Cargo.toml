@@ -1,0 +1,8 @@
+[package]
+name = "rustology"
+version = "0.1.0"
+authors = ["Tom Boland <tom@t0mb.net>"]
+edition = "2018"
+
+[dependencies]
+nom = "5.0.0"
